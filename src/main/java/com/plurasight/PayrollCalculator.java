@@ -14,6 +14,13 @@ public class PayrollCalculator {
         System.out.print("Enter hours Worked: ");
         double hoursWorked = input.nextDouble();
 
+// Asks for pay rate
+        System.out.print("Enter pay rate: ");
+        double payRate = input.nextDouble();
+
+
+
+
 
     }
 }
